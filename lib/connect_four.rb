@@ -43,4 +43,4 @@ end
   game = ConnectFour.new
   game.welcome_message
   game.print_board
-  game.player_move
+  game.human_move
